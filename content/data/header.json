@@ -81,7 +81,7 @@
         },
         {
             "type": "Link",
-            "label": "Send email",
+            "label": "Cyber Security",
             "altText": "Play",
             "url": "/mailto:",
             "showIcon": true,
