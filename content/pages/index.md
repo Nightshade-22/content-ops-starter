@@ -90,7 +90,7 @@ sections:
             justifyContent: center
             textAlign: left
       - type: FeaturedItem
-        title: 20x
+        title: 400+
         subtitle: The Job Stuff
         text: ''
         image:
