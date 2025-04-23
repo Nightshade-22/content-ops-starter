@@ -388,7 +388,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Service Consulting
+      text: Service Landscape
       color: text-dark
     subtitle: Be in good company
     text: >
