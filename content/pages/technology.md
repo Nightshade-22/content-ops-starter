@@ -27,7 +27,9 @@ sections:
         style: primary
     media:
       type: ImageBlock
-      url: /images/hero3.svg
+      url: >-
+        /images/Give me a image for Technology service, more digital and
+        technology oriented.jpg
       altText: Dope design preview
     badge:
       type: Badge
