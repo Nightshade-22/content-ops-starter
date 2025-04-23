@@ -402,7 +402,7 @@ sections:
       - url: /images/vise-logo.svg
         altText: Vise logo
         type: ImageBlock
-      - url: /images/telus-logo.svg
+      - url: /images/McKesson_Corporation-Logo.wine-2.png
         altText: Telus logo
         type: ImageBlock
       - url: /images/contenful-logo.svg
