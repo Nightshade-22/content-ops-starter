@@ -33,7 +33,7 @@
         {
             "label": "Technology",
             "altText": "Technology",
-            "url": "/careers",
+            "url": "/technology",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
