@@ -436,7 +436,7 @@ sections:
       url: >-
         https://www.youtube-nocookie.com/embed/sIBU_MkgOQc?controls=0&rel=0&playsinline=1&enablejsapi=1&origin=https%3A%2F%2Fwww.sprconsultech.com&widgetid=5&forigin=https%3A%2F%2Fwww.sprconsultech.com%2F&aoriginsup=1&gporigin=https%3A%2F%2Fwww.google.com%2F&vf=1
       controls: false
-      aspectRatio: '4:3'
+      aspectRatio: '16:9'
       styles:
         self:
           padding:
