@@ -9,9 +9,12 @@ sections:
       type: TitleBlock
     subtitle: Subtitle goes here
     text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+      We are a boutique risk advisory firm with a global footprint, specializing
+      in technology transformation, AI-driven risk management, and enterprise
+      resilience. We design modular, high-performance solutions tailored to each
+      client—leveraging real-time data, automated compliance, and robust
+      cybersecurity to ensure scalable, secure, and regulation-ready operations
+      across borders.
     actions:
       - label: Get started
         altText: ''
