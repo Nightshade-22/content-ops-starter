@@ -258,7 +258,7 @@ sections:
             textAlign: left
       - type: FeaturedItem
         title: '6'
-        subtitle: Numbers Done
+        subtitle: Offshore Delivery Centers
         text: ''
         image:
           type: ImageBlock
