@@ -387,7 +387,7 @@ sections:
     type: DividerSection
   - type: CarouselSection
     title: null
-    subtitle: What our customers say about us
+    subtitle: What our customers say about u
     items:
       - title: >-
           “A designer knows he has achieved perfection not when there is nothing
