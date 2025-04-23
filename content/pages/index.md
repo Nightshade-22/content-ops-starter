@@ -24,7 +24,7 @@ sections:
       type: ImageBlock
     badge:
       label: About us
-      color: text-light
+      color: text-primary
       type: Badge
     elementId: ''
     colors: bg-light-fg-dark
