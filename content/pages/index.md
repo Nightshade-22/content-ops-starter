@@ -184,6 +184,23 @@ sections:
       subtitle:
         textAlign: center
     type: ImageGallerySection
+  - type: GenericSection
+    title:
+      type: TitleBlock
+      text: Service Landscape
+      color: text-dark
+    subtitle: ''
+    text: ''
+    actions: []
+    media:
+      type: ImageBlock
+      url: /images/spr consultech proposal.svg
+      altText: Dope design preview
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        alignItems: center
+        flexDirection: row-reverse
   - posts:
       - content/pages/blog/case-study-1.md
       - content/pages/blog/case-study-2.md
@@ -203,23 +220,6 @@ sections:
         justifyContent: center
     type: FeaturedPostsSection
     hoverEffect: move-up
-  - type: GenericSection
-    title:
-      type: TitleBlock
-      text: Service Landscape
-      color: text-dark
-    subtitle: ''
-    text: ''
-    actions: []
-    media:
-      type: ImageBlock
-      url: /images/spr consultech proposal.svg
-      altText: Dope design preview
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        alignItems: center
-        flexDirection: row-reverse
   - title: Divider
     colors: bg-light-fg-dark
     styles:
