@@ -16,12 +16,6 @@ sections:
       class practices across industry verticals to offer unique and customized
       solutions that prioritizes customer expectations.
     actions:
-      - type: Button
-        label: Get started
-        url: /
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
       - type: Link
         label: See Tutorials
         url: /
