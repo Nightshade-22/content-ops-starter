@@ -99,7 +99,7 @@ sections:
           altText: Featured icon two
           elementId: ''
         actions: []
-        colors: bg-neutralAlt-fg-dark
+        colors: bg-neutral-fg-dark
         styles:
           self:
             padding:
