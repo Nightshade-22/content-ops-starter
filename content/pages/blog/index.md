@@ -1,5 +1,5 @@
 ---
-title: Consulting
+title: Blog
 slug: /consulting
 numOfPostsPerPage: 8
 enableSearch: true
