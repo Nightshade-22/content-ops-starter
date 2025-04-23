@@ -66,7 +66,7 @@ sections:
     items:
       - type: FeaturedItem
         title: 2000+
-        subtitle: Numbers Done
+        subtitle: Clients
         text: ''
         image:
           type: ImageBlock
