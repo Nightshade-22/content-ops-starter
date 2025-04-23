@@ -419,44 +419,6 @@ sections:
         textAlign: center
     type: ImageGallerySection
   - title:
-      text: Grow your business 10x faster
-      color: text-dark
-      styles:
-        self:
-          textAlign: center
-      type: TitleBlock
-    subtitle: ''
-    text: ''
-    media:
-      title: ''
-      url: >-
-        https://www.youtube-nocookie.com/embed/sIBU_MkgOQc?controls=0&rel=0&playsinline=1&enablejsapi=1&origin=https%3A%2F%2Fwww.sprconsultech.com&widgetid=5&forigin=https%3A%2F%2Fwww.sprconsultech.com%2F&aoriginsup=1&gporigin=https%3A%2F%2Fwww.google.com%2F&vf=1
-      controls: false
-      aspectRatio: '16:9'
-      styles:
-        self:
-          padding:
-            - pt-2
-            - pb-2
-            - pl-2
-            - pr-2
-          borderColor: border-dark
-          borderStyle: solid
-          borderWidth: 1
-          borderRadius: large
-      type: VideoBlock
-      autoplay: true
-      loop: true
-      muted: true
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        flexDirection: col
-        justifyContent: center
-      subtitle:
-        textAlign: center
-    type: GenericSection
-  - title:
       text: Generic Section With A Form
       color: text-dark
       type: TitleBlock
