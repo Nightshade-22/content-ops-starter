@@ -263,6 +263,23 @@ sections:
     type: GenericSection
   - type: GenericSection
     title:
+      type: TitleBlock
+      text: Service Landscape
+      color: text-dark
+    subtitle: ''
+    text: ''
+    actions: []
+    media:
+      type: ImageBlock
+      url: /images/spr consultech proposal.svg
+      altText: Dope design preview
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        alignItems: center
+        flexDirection: row-reverse
+  - type: GenericSection
+    title:
       text: Generic section with a video
       color: text-dark
       styles:
@@ -304,23 +321,6 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: left
-  - type: GenericSection
-    title:
-      type: TitleBlock
-      text: Service Landscape
-      color: text-dark
-    subtitle: ''
-    text: ''
-    actions: []
-    media:
-      type: ImageBlock
-      url: /images/spr consultech proposal.svg
-      altText: Dope design preview
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        alignItems: center
-        flexDirection: row-reverse
   - title: Divider
     colors: bg-light-fg-dark
     styles:
