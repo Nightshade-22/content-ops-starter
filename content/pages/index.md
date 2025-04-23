@@ -41,7 +41,7 @@ sections:
     title:
       type: TitleBlock
       text: Service Landscape
-      color: text-dark
+      color: text-primary
     subtitle: ''
     text: ''
     actions: []
