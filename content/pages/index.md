@@ -304,7 +304,7 @@ sections:
       type: TitleBlock
     subtitle: ''
     items:
-      - title: Feature Item One
+      - title: Consulting
         tagline: ''
         subtitle: This is the item subtitle
         text: |
