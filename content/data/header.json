@@ -10,12 +10,12 @@
             }
         },
         "type": "ImageBlock",
-        "elementId": "/home"
+        "elementId": ""
     },
     "primaryLinks": [
         {
             "label": "Home",
-            "url": "/home",
+            "url": "",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
