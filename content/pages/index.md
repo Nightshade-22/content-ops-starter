@@ -335,7 +335,9 @@ sections:
           Innovative tech services enabling automation, cloud, AI, and digital
           transformation.
         image:
-          url: /images/abstract-feature2.svg
+          url: >-
+            /images/Give me a image for Technology service, more digital and
+            technology oriented.jpg
           altText: Placeholder image
           styles:
             self:
