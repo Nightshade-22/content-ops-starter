@@ -23,7 +23,7 @@ sections:
       elementId: ''
       type: ImageBlock
     badge:
-      label: About us
+      label: ''
       color: text-primary
       type: Badge
     elementId: ''
