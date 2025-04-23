@@ -208,7 +208,7 @@ sections:
             textAlign: left
       - type: FeaturedItem
         title: Demographics
-        subtitle: North America India South Africa Botswana
+        subtitle: North America | India | South Africa | Botswana
         text: ''
         image:
           type: ImageBlock
