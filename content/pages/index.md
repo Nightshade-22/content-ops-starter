@@ -158,7 +158,7 @@ sections:
             textAlign: left
       - type: FeaturedItem
         title: $200 Million +
-        subtitle: Numbers Done
+        subtitle: ROI Delivered to Clients
         text: ''
         image:
           type: ImageBlock
