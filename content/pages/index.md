@@ -153,6 +153,23 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
+  - type: GenericSection
+    title:
+      type: TitleBlock
+      text: Service Landscape
+      color: text-dark
+    subtitle: ''
+    text: ''
+    actions: []
+    media:
+      type: ImageBlock
+      url: /images/spr consultech proposal.svg
+      altText: Dope design preview
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        alignItems: center
+        flexDirection: row-reverse
   - subtitle: Award winning enterprises trust us
     images:
       - url: /images/empathy-logo.svg
@@ -184,23 +201,6 @@ sections:
       subtitle:
         textAlign: center
     type: ImageGallerySection
-  - type: GenericSection
-    title:
-      type: TitleBlock
-      text: Service Landscape
-      color: text-dark
-    subtitle: ''
-    text: ''
-    actions: []
-    media:
-      type: ImageBlock
-      url: /images/spr consultech proposal.svg
-      altText: Dope design preview
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        alignItems: center
-        flexDirection: row-reverse
   - posts:
       - content/pages/blog/case-study-1.md
       - content/pages/blog/case-study-2.md
