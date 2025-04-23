@@ -296,7 +296,7 @@ sections:
       subtitle:
         textAlign: center
   - title:
-      text: List of features here
+      text: Our Services
       color: text-primary
       styles:
         self:
