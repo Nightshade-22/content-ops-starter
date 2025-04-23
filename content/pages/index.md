@@ -213,6 +213,23 @@ sections:
           - pb-7
           - pr-7
     type: DividerSection
+  - type: GenericSection
+    title:
+      type: TitleBlock
+      text: Service Landscape
+      color: text-dark
+    subtitle: ''
+    text: ''
+    actions: []
+    media:
+      type: ImageBlock
+      url: /images/spr consultech proposal.svg
+      altText: Dope design preview
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        alignItems: center
+        flexDirection: row-reverse
   - title:
       text: Grow your business 10x faster
       color: text-dark
@@ -261,23 +278,6 @@ sections:
       subtitle:
         textAlign: center
     type: GenericSection
-  - type: GenericSection
-    title:
-      type: TitleBlock
-      text: Service Landscape
-      color: text-dark
-    subtitle: ''
-    text: ''
-    actions: []
-    media:
-      type: ImageBlock
-      url: /images/spr consultech proposal.svg
-      altText: Dope design preview
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        alignItems: center
-        flexDirection: row-reverse
   - type: GenericSection
     title:
       text: Generic section with a video
