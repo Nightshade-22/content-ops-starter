@@ -15,14 +15,7 @@ sections:
       strong risk bias enables us to apply contemporary technology and best in
       class practices across industry verticals to offer unique and customized
       solutions that prioritizes customer expectations.
-    actions:
-      - type: Link
-        label: See Tutorials
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
+    actions: []
     media:
       type: ImageBlock
       url: /images/Give me a image for Consulting service.jpg
