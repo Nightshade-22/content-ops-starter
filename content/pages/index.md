@@ -405,7 +405,7 @@ sections:
       - url: /images/telus-logo.svg
         altText: Telus logo
         type: ImageBlock
-      - url: /images/McKesson_Corporation-Logo.wine.svg
+      - url: /images/contenful-logo.svg
         altText: Contentful logo
         type: ImageBlock
       - url: /images/sanity-logo.svg
