@@ -9,8 +9,12 @@ sections:
       color: text-dark
     subtitle: ''
     text: >
-      A service that provides advice and guidance to startups and small
-      businesses.
+      We believe that our intense specialization in risk is both relevant and
+      critical, especially in present times when risk culture and governance
+      agendas dominate board room discussions. Our Practice strategy with a
+      strong risk bias enables us to apply contemporary technology and best in
+      class practices across industry verticals to offer unique and customized
+      solutions that prioritizes customer expectations.
     actions:
       - type: Button
         label: Get started
