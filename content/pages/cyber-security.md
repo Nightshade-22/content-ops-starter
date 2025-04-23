@@ -27,7 +27,7 @@ sections:
         style: primary
     media:
       type: ImageBlock
-      url: /images/hero3.svg
+      url: /images/Give me a image for cyber security service.jpg
       altText: Dope design preview
     badge:
       type: Badge
