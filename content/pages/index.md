@@ -113,7 +113,7 @@ sections:
             justifyContent: center
       - type: FeaturedItem
         title: 35+
-        subtitle: Faster
+        subtitle: White Papers
         text: ''
         image:
           type: ImageBlock
