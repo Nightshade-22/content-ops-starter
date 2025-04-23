@@ -23,7 +23,7 @@
         {
             "label": "Consulting",
             "altText": "Blog",
-            "url": "/blog",
+            "url": "/consulting",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
