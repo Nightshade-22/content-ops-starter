@@ -9,8 +9,8 @@ sections:
       type: TitleBlock
     subtitle: ''
     text: >+
-      <div style="text-align: center">## We are a boutique risk advisory firm
-      with a global footprint, specializing in technology transformation,
+      <div style="text-align: center">###### We are a boutique risk advisory
+      firm with a global footprint, specializing in technology transformation,
       AI-driven risk management, and enterprise resilience. We design modular,
       high-performance solutions tailored to each client—leveraging real-time
       data, automated compliance, and robust cybersecurity to ensure scalable,
