@@ -183,7 +183,7 @@ sections:
             textAlign: left
       - type: FeaturedItem
         title: 5 Million +
-        subtitle: Numbers Done
+        subtitle: Person Hours
         text: ''
         image:
           type: ImageBlock
