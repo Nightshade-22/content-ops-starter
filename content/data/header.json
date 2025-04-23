@@ -42,7 +42,7 @@
         {
             "type": "Link",
             "label": "Cyber Security",
-            "altText": "",
+            "altText": "Cyber Security",
             "url": "/cyber-security",
             "showIcon": false,
             "icon": "arrowRight",
