@@ -2,7 +2,7 @@
 title: Blog
 slug: /consulting
 numOfPostsPerPage: 8
-enableSearch: true
+enableSearch: false
 topSections:
   - title:
       text: Featured Post
