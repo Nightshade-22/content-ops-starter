@@ -89,17 +89,6 @@
                 }
             ],
             "labelStyle": "secondary"
-        },
-        {
-            "type": "Link",
-            "label": "Cyber Security",
-            "altText": "Play",
-            "url": "/mailto:",
-            "showIcon": true,
-            "icon": "mail",
-            "iconPosition": "right",
-            "style": "secondary",
-            "elementId": ""
         }
     ],
     "secondaryLinks": [],
