@@ -10,16 +10,17 @@
             }
         },
         "type": "ImageBlock",
-        "elementId": "/home"
+        "elementId": "/"
     },
     "primaryLinks": [
         {
             "label": "Home",
-            "url": "/home",
+            "url": "/",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
-            "type": "Link"
+            "type": "Link",
+            "showIcon": false
         },
         {
             "label": "Consulting",
