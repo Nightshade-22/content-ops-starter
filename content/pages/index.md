@@ -91,7 +91,7 @@ sections:
             textAlign: left
       - type: FeaturedItem
         title: 400+
-        subtitle: The Job Stuff
+        subtitle: Professionals
         text: ''
         image:
           type: ImageBlock
