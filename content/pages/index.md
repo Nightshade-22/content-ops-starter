@@ -311,7 +311,7 @@ sections:
           Strategic advisory driving innovation, compliance, risk, technology,
           and operational excellence.
         image:
-          url: /images/abstract-feature1.svg
+          url: /images/faces-close-up-smiling-executives.jpg
           altText: Placeholder Image
           styles:
             self:
