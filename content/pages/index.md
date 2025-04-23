@@ -361,7 +361,7 @@ sections:
           Proactive cybersecurity solutions ensuring resilience, compliance,
           threat detection, and trust.
         image:
-          url: /images/abstract-feature1.svg
+          url: /images/Give me a image for cyber security service.jpg
           altText: Placeholder image
           styles:
             self:
