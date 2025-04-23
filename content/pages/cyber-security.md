@@ -5,7 +5,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Business Consulting
+      text: "Cyber \_ \_ \_ \_ Security"
       color: text-dark
     subtitle: Be in good company
     text: >
