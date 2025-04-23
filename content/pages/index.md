@@ -5,7 +5,7 @@ sections:
   - type: GenericSection
     title:
       text: About Us
-      color: text-dark
+      color: text-primary
       type: TitleBlock
     subtitle: ''
     text: >+
@@ -41,7 +41,7 @@ sections:
     title:
       type: TitleBlock
       text: Service Landscape
-      color: text-dark
+      color: text-primary
     subtitle: ''
     text: ''
     actions: []
@@ -58,7 +58,7 @@ sections:
     title:
       type: TitleBlock
       text: Highlights
-      color: text-dark
+      color: text-primary
       styles:
         self:
           textAlign: center
@@ -425,9 +425,9 @@ sections:
     title:
       type: TitleBlock
       text: Companies that trust us
-      color: text-dark
+      color: text-primary
   - title:
-      text: Generic Section With A Form
+      text: Form
       color: text-dark
       type: TitleBlock
     subtitle: Section with a form subtitle
