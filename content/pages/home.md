@@ -424,7 +424,7 @@ sections:
     type: ImageGallerySection
     title:
       type: TitleBlock
-      text: This Is A Big Headline
+      text: Companies that trust us
       color: text-dark
   - title:
       text: Generic Section With A Form
