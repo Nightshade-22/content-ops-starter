@@ -208,7 +208,7 @@ sections:
             textAlign: left
       - type: FeaturedItem
         title: Demographics
-        subtitle: Numbers Done
+        subtitle: North America
         text: ''
         image:
           type: ImageBlock
