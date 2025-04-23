@@ -9,12 +9,13 @@
                 ]
             }
         },
-        "type": "ImageBlock"
+        "type": "ImageBlock",
+        "elementId": "/home"
     },
     "primaryLinks": [
         {
             "label": "Home",
-            "url": "/pricing",
+            "url": "/home",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
@@ -23,7 +24,7 @@
         {
             "label": "Consulting",
             "altText": "Blog",
-            "url": "/blog",
+            "url": "/consulting",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
