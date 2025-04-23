@@ -65,7 +65,7 @@ sections:
     subtitle: ''
     items:
       - type: FeaturedItem
-        title: 500k
+        title: 2000+
         subtitle: Numbers Done
         text: ''
         image:
