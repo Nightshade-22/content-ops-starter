@@ -1,6 +1,6 @@
 ---
 title: Consulting
-slug: /blog
+slug: /consulting
 numOfPostsPerPage: 8
 enableSearch: true
 topSections:
