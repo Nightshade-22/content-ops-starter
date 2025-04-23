@@ -7,7 +7,7 @@ sections:
       text: ''
       color: text-dark
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: ''
     text: >
       We are a boutique risk advisory firm with a global footprint, specializing
       in technology transformation, AI-driven risk management, and enterprise
