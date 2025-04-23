@@ -233,7 +233,7 @@ sections:
             textAlign: left
       - type: FeaturedItem
         title: 40% Women
-        subtitle: Numbers Done
+        subtitle: Equitable Brand
         text: ''
         image:
           type: ImageBlock
