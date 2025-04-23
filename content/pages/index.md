@@ -391,9 +391,7 @@ sections:
       text: Service Landscape
       color: text-dark
     subtitle: ''
-    text: >
-      A service that provides advice and guidance to startups and small
-      businesses.
+    text: ''
     actions:
       - type: Link
         label: See Tutorials
