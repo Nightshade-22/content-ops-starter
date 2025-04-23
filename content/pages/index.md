@@ -331,8 +331,9 @@ sections:
       - title: Technology
         tagline: ''
         subtitle: ''
-        text: |
-          Follow the tutorial to build your first awesome Netlify Create site.
+        text: >
+          Innovative tech services enabling automation, cloud, AI, and digital
+          transformation.
         image:
           url: /images/abstract-feature2.svg
           altText: Placeholder image
