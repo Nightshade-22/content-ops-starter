@@ -15,16 +15,7 @@ sections:
       client—leveraging real-time data, automated compliance, and robust
       cybersecurity to ensure scalable, secure, and regulation-ready operations
       across borders.
-    actions:
-      - label: See Tutorials
-        altText: ''
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
-        type: Link
+    actions: []
     media:
       url: /images/main-hero.svg
       altText: Unblock your team boost your time to production preview
