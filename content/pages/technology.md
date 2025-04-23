@@ -26,7 +26,7 @@ sections:
       self:
         alignItems: center
         flexDirection: row-reverse
-slug: technology
+slug: /technology
 isDraft: false
 seo:
   type: Seo
