@@ -31,10 +31,6 @@ sections:
         /images/Give me a image for Technology service, more digital and
         technology oriented.jpg
       altText: Dope design preview
-    badge:
-      type: Badge
-      label: This is a badge
-      color: text-primary
     colors: bg-light-fg-dark
     styles:
       self:
