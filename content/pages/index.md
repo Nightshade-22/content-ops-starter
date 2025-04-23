@@ -133,7 +133,7 @@ sections:
             flexDirection: row
       - type: FeaturedItem
         title: 90%
-        subtitle: Numbers Done
+        subtitle: Customer Loyalty
         text: ''
         image:
           type: ImageBlock
