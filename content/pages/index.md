@@ -425,7 +425,7 @@ sections:
     title:
       type: TitleBlock
       text: Companies that trust us
-      color: text-dark
+      color: text-primary
   - title:
       text: Form
       color: text-dark
