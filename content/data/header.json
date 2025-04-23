@@ -39,6 +39,17 @@
             "type": "Link"
         },
         {
+            "type": "Link",
+            "label": "See Tutorials",
+            "altText": "",
+            "url": "/mail to",
+            "showIcon": false,
+            "icon": "arrowRight",
+            "iconPosition": "right",
+            "style": "secondary",
+            "elementId": ""
+        },
+        {
             "type": "SubNav",
             "label": "Dropdown",
             "altText": "Dropdown",
