@@ -432,7 +432,7 @@ sections:
       erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
       vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
     media:
-      title: Title of the video
+      title: ''
       url: >-
         https://www.youtube-nocookie.com/embed/sIBU_MkgOQc?controls=0&rel=0&playsinline=1&enablejsapi=1&origin=https%3A%2F%2Fwww.sprconsultech.com&widgetid=5&forigin=https%3A%2F%2Fwww.sprconsultech.com%2F&aoriginsup=1&gporigin=https%3A%2F%2Fwww.google.com%2F&vf=1
       controls: false
