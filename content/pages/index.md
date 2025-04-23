@@ -58,7 +58,7 @@ sections:
     title:
       type: TitleBlock
       text: Highlights
-      color: text-dark
+      color: text-primary
       styles:
         self:
           textAlign: center
