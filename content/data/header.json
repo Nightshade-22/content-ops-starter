@@ -24,7 +24,7 @@
         {
             "label": "Consulting",
             "altText": "Blog",
-            "url": "/careers",
+            "url": "/consulting",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
