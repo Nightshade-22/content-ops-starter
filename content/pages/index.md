@@ -16,15 +16,6 @@ sections:
       cybersecurity to ensure scalable, secure, and regulation-ready operations
       across borders.
     actions:
-      - label: Get started
-        altText: ''
-        url: /
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-        elementId: ''
-        type: Button
       - label: See Tutorials
         altText: ''
         url: /
