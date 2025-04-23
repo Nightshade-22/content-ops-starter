@@ -4,7 +4,7 @@ slug: /home
 sections:
   - type: GenericSection
     title:
-      text: ''
+      text: About Us
       color: text-dark
       type: TitleBlock
     subtitle: ''
