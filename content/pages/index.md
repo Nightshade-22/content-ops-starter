@@ -427,7 +427,7 @@ sections:
       text: Companies that trust us
       color: text-dark
   - title:
-      text: Generic Section With A Form
+      text: Form
       color: text-dark
       type: TitleBlock
     subtitle: Section with a form subtitle
