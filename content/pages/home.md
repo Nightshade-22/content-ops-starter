@@ -4,7 +4,7 @@ slug: /home
 sections:
   - type: GenericSection
     title:
-      text: ''
+      text: About Us
       color: text-dark
       type: TitleBlock
     subtitle: ''
@@ -23,7 +23,7 @@ sections:
       elementId: ''
       type: ImageBlock
     badge:
-      label: About us
+      label: ''
       color: text-primary
       type: Badge
     elementId: ''
@@ -391,7 +391,7 @@ sections:
       subtitle:
         textAlign: center
     type: FeaturedItemsSection
-  - subtitle: Companies that trust us
+  - subtitle: ''
     images:
       - url: /images/empathy-logo.svg
         altText: Empathy logo
@@ -422,6 +422,10 @@ sections:
       subtitle:
         textAlign: center
     type: ImageGallerySection
+    title:
+      type: TitleBlock
+      text: Companies that trust us
+      color: text-dark
   - title:
       text: Generic Section With A Form
       color: text-dark
