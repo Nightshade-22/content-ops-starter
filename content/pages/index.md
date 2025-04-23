@@ -309,7 +309,7 @@ sections:
         subtitle: ''
         text: >
           Strategic advisory driving innovation, compliance, risk, technology,
-          and operational excellence..
+          and operational excellence.
         image:
           url: /images/abstract-feature1.svg
           altText: Placeholder Image
